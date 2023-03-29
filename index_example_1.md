@@ -2,90 +2,48 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# DAVID HANSEN
+744 Centennial Loop Rexburg ID · 208-715-4173
+  Han15038@byui.edu · David.hansen67@gmail.com
 
 
-## Currently
+## EXPERIENCE
+AUGUST 2019 – PRESENT
+MATH TUTOR, MATHNASIUM
+I Tutor kids from k-12 in any varity of math one would see in grade school
 
-Standing on the shoulders of giants
+JANUARY 2019 – JULY 2019
+MATH TUTOR, BYU-IDAHO
+I tutored math part time. I helped with anything from basic math through multivariable calculus.
 
-### Specialized in
+OCTOBER 2018 – DECEMBER 2018
+TEMPORARY PRODUCTION ASSISTANT, OCCASIONS GROUP
+I worked as a packager from mid-October to the end of December.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+JULY 2018 – SEPTEMBER 2018
+LABORER, HEADWATERS CONSTRUCTION COMPANY
+My responsibilities were to keep the jobsite clean, safe, and to fix minor mistakes such as small holes in walls and in floors.
+Worked in team with other coworkers
 
+## EDUCATION
+EXPECTED GRADUATION April 2024
+BACHELOR OF SCIENCE IN DATA SCIENCE, BYU-I
+GPA: 3.32
 
-### Research interests
+## SKILLS
+•	Great at relating to and working with others.
+•	Able to perform high level mathematics	•	Worked with serval programing languages which include Python, html, and R
+•	Have experience with heavy machinery, such as tractors, forklifts and conveyor belts.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## ACTIVITIES
+Hired as a private Chemistry, and math tutor
+Earned the Eagles scout award
+Served a full-time two-year mission for the Church of Jesus Christ of latter-day saints and was responsible to train another missionary.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 29th 2023 -->
 
 
